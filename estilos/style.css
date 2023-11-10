@@ -81,6 +81,8 @@ div.campo > input{
     transform: translateY(-12px);
     background-color: #49a09d;
     width: calc(100% - 47px);
+    color: white;
+    
 }
 
 div.campo > input:hover{
@@ -101,6 +103,7 @@ form > div.campo{
     border-radius: 5px;
     margin: 5px 0px;
     border: 1px solid rgba(0, 0, 0, 0.175);
+    
 
 }
 
@@ -131,7 +134,7 @@ form > a.botao{
     background-color: #5ac5c1;
     border: 1px solid #49a09d;
     border-radius: 5px;
-    color: black;
+    color: rgb(255, 255, 255);
     text-decoration: none;
     margin-top: 5px;
     padding-top: 5px;
